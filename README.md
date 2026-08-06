@@ -475,6 +475,5 @@ Developed as a Computer Engineering project.
 
 This project is intended for educational and academic purposes.
 
-Add an appropriate open-source license if you decide to publish the project for public reuse.
 
 
